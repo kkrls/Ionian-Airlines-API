@@ -1,8 +1,3 @@
-Admin credentials:
-
-username: ammar
-password: ammar123
-
 pythonanywhere URL: http://sc19kk.pythonanywhere.com/search/
 
 Requests can be made to 4 endpoints:
